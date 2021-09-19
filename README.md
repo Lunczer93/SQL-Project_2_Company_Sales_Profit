@@ -26,7 +26,7 @@ The analysis of Sales and Profit by month in 2014-2017 was also performed for se
 
 The whole steps of my analysis were described in my project.
 
-THE MAIN CONCLUSIONS
+MAIN CONCLUSIONS
 
 1.	The greatest profit was 8981$ belongs to Tamara Chand
 2.	The greatest sales was 146742 $ belongs to Sean Miller
