@@ -1,12 +1,12 @@
 # SQL-Projects_2 Sales and Profit Company
 
-INTRODUCTION
+# INTRODUCTION
 
 I was asked to analyze data that contains the information about the company’s products regarding Profit, Sales, Customers, Segment, Ship and Location in 2014-2017 years.  
 I am interested in details about this period for these areas, so if I find anything interesting then I do not hesitate to bring that in also. 
 To analyze this data, I used Windows functions in SQL Server 
 
-ANALYSIS
+# ANALYSIS
 
 The main task is to calculate which products, locations, customers and regions that generate the greatest and smallest amount of profit and sales.  
 
@@ -26,7 +26,7 @@ The analysis of Sales and Profit by month in 2014-2017 was also performed for se
 
 The whole steps of my analysis were described in my project.
 
-MAIN CONCLUSIONS
+# MAIN CONCLUSIONS
 
 1.	The greatest profit was 8981$ belongs to Tamara Chand
 2.	The greatest sales was 146742 $ belongs to Sean Miller
